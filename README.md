@@ -8,7 +8,7 @@ Senior ML Engineer building production LLM systems — RAG pipelines, AI agents,
 
 **[IT Interview Coach](https://t.me/itinterviewcoach_bot)** / https://itinterviewcoach.com — AI-powered technical interview trainer (Telegram bot) Multi-model LLM architecture with cascading fallback (Groq → OpenRouter → Mistral), FSM-driven live coding sessions, CV analysis pipeline with ATS scoring, dual payment integration. Shipped solo, in production.
 
-**FoodTrack** — AI-driven meal planner Embedding-based recommendation engine for personalized meal planning, built on LangChain + async PostgreSQL, deployed on cloud infrastructure with monitoring.
+**[FoodTrack](https://t.me/foodtrack_balanced_nutrition_bot)** — AI-driven meal planner (Telegram bot) Embedding-based recommendation engine for personalized meal planning, built on LangChain + async PostgreSQL, deployed on cloud infrastructure with monitoring.
 
 **[Pronunciation Coach](https://github.com/A1llexander/azure-pronunciation-coach)** — open source Lightweight open-source alternative to the pronunciation assessment in Azure Speech Studio: paste a text, read it aloud, get word-level scores and errors, replay any word as you said it. English and Spanish, runs in the browser with your own Azure key — no backend, no tracking.
 
@@ -25,6 +25,11 @@ At Baltika Brewing Company (Carlsberg Group), I designed and deployed:
 * A RAG system using a QLoRA-tuned LLaMA model with query-validation agents to reduce hallucinations
 * A classifier-head adaptation of a frozen LLaMA achieving 91% accuracy in complaint classification
 * ML-driven demand forecasting improvements, with $200K+ in measurable operational savings
+
+### 🤝 Contract work
+
+* **US legal-tech startup** — hybrid retrieval RAG (BM25 + dense) over legal documents: MVP, client demo, and retrieval-quality evaluation
+* **Retail client** — out-of-stock prediction from POS data with CatBoost
 
 ### 🛠 Stack
 

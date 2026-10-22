@@ -12,6 +12,8 @@ Senior ML Engineer building production LLM systems — RAG pipelines, AI agents,
 
 **[Pronunciation Coach](https://github.com/A1llexander/azure-pronunciation-coach)** — open source Lightweight open-source alternative to the pronunciation assessment in Azure Speech Studio: paste a text, read it aloud, get word-level scores and errors, replay any word as you said it. English and Spanish, runs in the browser with your own Azure key — no backend, no tracking.
 
+**[Driving Test Simulator](https://github.com/A1llexander/Driving-test-simulator)** — [play in browser](https://a1llexander.github.io/Driving-test-simulator/) Browser-based 3D trainer for driving-test exercises and parking, modelled on the Georgian practical exam: snake, dead-end turnaround, figure eight, hill start, and three parking types. Cockpit view with working mirrors, head turns, realistic steering ratio, reverse camera, and a 100-point fault-based scoring system. Desktop and mobile, no sign-up.
+
 **Saldia** — new product in early development Building out the next iteration of an AI-driven product, currently in active development.
 
 **GEO-Agentic** — experimental Exploring an agentic approach to Generative Engine Optimization (GEO) — how AI agents can improve a site's visibility inside LLM-based search and answer engines.
